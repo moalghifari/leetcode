@@ -12,3 +12,4 @@
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./java/diameterOfBinaryTree/DiameterOfBinaryTree.java)|Easy|
 |1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MySQL](./mysql/salesAnalysisIii/SalesAnalysisIii.sql)|Easy|
 |1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [MySQL](./mysql/bankAccountSummaryIi/BankAccountSummaryIi.sql)|Easy|
+|1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [MySQL](./mysql/actorsAndDirectorsWhoCooperatedAtLeastThreeTimes/ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)|Easy|
