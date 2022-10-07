@@ -11,3 +11,4 @@
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Java](./java/numberOfDiceRollsWithTargetSum/NumberOfDiceRollsWithTargetSum.java)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./java/diameterOfBinaryTree/DiameterOfBinaryTree.java)|Easy|
 |1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MySQL](./mysql/salesAnalysisIii/SalesAnalysisIii.sql)|Easy|
+|1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [MySQL](./mysql/bankAccountSummaryIi/BankAccountSummaryIi.sql)|Easy|
