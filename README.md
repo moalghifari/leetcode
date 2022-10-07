@@ -10,4 +10,4 @@
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./java/pathSumIii/PathSumIii.java)|Medium|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Java](./java/numberOfDiceRollsWithTargetSum/NumberOfDiceRollsWithTargetSum.java)|Medium|
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Java](./java/diameterOfBinaryTree/DiameterOfBinaryTree.java)|Easy|
-|1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [Java](./mysql/SalesAnalysisIii.sql)|Easy|
+|1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MySQL](./mysql/SalesAnalysisIii.sql)|Easy|
