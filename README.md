@@ -13,3 +13,4 @@
 |1084|[Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [MySQL](./mysql/salesAnalysisIii/SalesAnalysisIii.sql)|Easy|
 |1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [MySQL](./mysql/bankAccountSummaryIi/BankAccountSummaryIi.sql)|Easy|
 |1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [MySQL](./mysql/actorsAndDirectorsWhoCooperatedAtLeastThreeTimes/ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)|Easy|
+|2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Java](./java/minimizeXor/MinimizeXor.java)|Medium|
