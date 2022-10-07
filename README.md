@@ -14,3 +14,5 @@
 |1587|[Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/) | [MySQL](./mysql/bankAccountSummaryIi/BankAccountSummaryIi.sql)|Easy|
 |1050|[Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | [MySQL](./mysql/actorsAndDirectorsWhoCooperatedAtLeastThreeTimes/ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)|Easy|
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Java](./java/minimizeXor/MinimizeXor.java)|Medium|
+|182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./mysql/duplicateEmails/DuplicateEmails.sql)|Easy|
+|2428|[Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Java](./java/maximumSumOfAnHourglass/MaximumSumOfAnHourglass.java)|Medium|
