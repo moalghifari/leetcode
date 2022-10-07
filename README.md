@@ -8,3 +8,4 @@
 |112|[Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./algorithms/java/pathSum/PathSum.java)|Easy|
 |1578|[Minimum Time to Make Rope Colorful](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/) | [Java](./algorithms/java/minimumTimeToMakeRopeColorful/MinimumTimeToMakeRopeColorful.java)|Medium
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Java](./algorithms/java/pathSumIii/PathSumIii.java)|Medium|
+|1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [Java](./algorithms/java/numberOfDiceRollsWithTargetSum/NumberOfDiceRollsWithTargetSum.java)|Medium|
