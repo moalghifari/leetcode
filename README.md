@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./java/3sumClosest/3sumClosest.java)|Medium|
 |732|[My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [Java](./java/myCalendarIii/MyCalendarIii.java)|Hard|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [Java](./java/timeBasedKeyValueStore/TimeBasedKeyValueStore.java)|Medium|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Java](./java/addOneRowToTree/AddOneRowToTree.java)|Medium|
