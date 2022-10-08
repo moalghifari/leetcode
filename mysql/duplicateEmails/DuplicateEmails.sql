@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/duplicate-emails/
-// Author : Mochamad Alghifari
-// Date   : 2022-10-07
+-- Source : https://leetcode.com/problems/duplicate-emails/
+-- Author : Mochamad Alghifari
+-- Date   : 2022-10-07
 
 /***************************************************************************************************** 
  *
@@ -41,7 +41,7 @@
  * Explanation: a@b.com is repeated two times.
  ******************************************************************************************************/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT email
 FROM Person
 GROUP BY email

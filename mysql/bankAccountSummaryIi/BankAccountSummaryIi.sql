@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/bank-account-summary-ii/
-// Author : Mochamad Alghifari
-// Date   : 2022-10-07
+-- Source : https://leetcode.com/problems/bank-account-summary-ii/
+-- Author : Mochamad Alghifari
+-- Date   : 2022-10-07
 
 /***************************************************************************************************** 
  *
@@ -73,7 +73,7 @@
  * Charlie's balance is (6000 + 6000 - 4000) = 8000.
  ******************************************************************************************************/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT u.name, SUM(
     CASE
         WHEN t.amount IS NULL THEN 0

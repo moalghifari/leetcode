@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/
-// Author : Mochamad Alghifari
-// Date   : 2022-10-07
+-- Source : https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/
+-- Author : Mochamad Alghifari
+-- Date   : 2022-10-07
 
 /***************************************************************************************************** 
  *
@@ -46,7 +46,7 @@
  * Explanation: The only pair is (1, 1) where they cooperated exactly 3 times.
  ******************************************************************************************************/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT actor_id, director_id
 FROM ActorDirector
 GROUP BY actor_id, director_id

@@ -1,6 +1,6 @@
-// Source : https://leetcode.com/problems/sales-analysis-iii/
-// Author : Mochamad Alghifari
-// Date   : 2022-10-07
+-- Source : https://leetcode.com/problems/sales-analysis-iii/
+-- Author : Mochamad Alghifari
+-- Date   : 2022-10-07
 
 /***************************************************************************************************** 
  *
@@ -72,7 +72,7 @@
  * We return only product 1 as it is the product that was only sold in the spring of 2019.
  ******************************************************************************************************/
 
-# Write your MySQL query statement below
+-- Write your MySQL query statement below
 SELECT p.product_id, p.product_name
 FROM Product p
 LEFT JOIN Sales s ON p.product_id = s.product_id
