@@ -22,3 +22,4 @@
 |1158|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [MySQL](./mysql/marketAnalysisI/MarketAnalysisI.sql)|Medium|
 |1407|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [MySQL](./mysql/topTravellers/TopTravellers.sql)|Easy|
 |1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [MySQL](./mysql/capitalGainloss/CapitalGainloss.sql)|Medium|
+|91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./java/decodeWays/DecodeWays.java)|Medium|
