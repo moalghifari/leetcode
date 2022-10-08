@@ -17,3 +17,4 @@
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Java](./java/minimizeXor/MinimizeXor.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./mysql/duplicateEmails/DuplicateEmails.sql)|Easy|
 |2428|[Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Java](./java/maximumSumOfAnHourglass/MaximumSumOfAnHourglass.java)|Medium|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
