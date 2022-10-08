@@ -23,3 +23,4 @@
 |1407|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [MySQL](./mysql/topTravellers/TopTravellers.sql)|Easy|
 |1393|[Capital Gain/Loss](https://leetcode.com/problems/capital-gainloss/) | [MySQL](./mysql/capitalGainloss/CapitalGainloss.sql)|Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/) | [Java](./java/decodeWays/DecodeWays.java)|Medium|
+|1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Java](./java/maximumLengthOfSubarrayWithPositiveProduct/MaximumLengthOfSubarrayWithPositiveProduct.java)|Medium|
