@@ -19,3 +19,4 @@
 |2428|[Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Java](./java/maximumSumOfAnHourglass/MaximumSumOfAnHourglass.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Java](./java/numberOfCommonFactors/NumberOfCommonFactors.java)|Easy|
+|1158|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [MySQL](./mysql/marketAnalysisI/MarketAnalysisI.sql)|Medium|
