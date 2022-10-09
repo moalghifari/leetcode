@@ -42,3 +42,4 @@ Step 4 : Edited the "dailyLeadsAndPartners/DailyLeadsAndPartners.sql"!
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./mysql/risingTemperature/RisingTemperature.sql)|Easy|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./java/oddEvenLinkedList/OddEvenLinkedList.java)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](./java/maximumSumCircularSubarray/MaximumSumCircularSubarray.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./java/maximumSubarray/MaximumSubarray.java)|Medium|
