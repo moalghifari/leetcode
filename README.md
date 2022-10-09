@@ -2,7 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-
+|2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Java](./java/findTheOriginalArrayOfPrefixXor/FindTheOriginalArrayOfPrefixXor.java)|Medium|
 |2432|[The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [Java](./java/theEmployeeThatWorkedOnTheLongestTask/TheEmployeeThatWorkedOnTheLongestTask.java)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Java](./java/twoSumIvInputIsABst/TwoSumIvInputIsABst.java)|Easy|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./java/3sumClosest/3sumClosest.java)|Medium|
