@@ -27,3 +27,4 @@
 |1567|[Maximum Length of Subarray With Positive Product](https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/) | [Java](./java/maximumLengthOfSubarrayWithPositiveProduct/MaximumLengthOfSubarrayWithPositiveProduct.java)|Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/maximumProductSubarray/MaximumProductSubarray.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./java/balancedBinaryTree/BalancedBinaryTree.java)|Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./java/invertBinaryTree/InvertBinaryTree.java)|Easy|
