@@ -28,3 +28,4 @@
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](./java/maximumProductSubarray/MaximumProductSubarray.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./java/balancedBinaryTree/BalancedBinaryTree.java)|Easy|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./java/invertBinaryTree/InvertBinaryTree.java)|Easy|
+|621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Java](./java/taskScheduler/TaskScheduler.java)|Medium|
