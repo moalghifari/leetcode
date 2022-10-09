@@ -36,7 +36,6 @@
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [MySQL](./mysql/gamePlayAnalysisI/GamePlayAnalysisI.sql)|Easy|
 |586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [MySQL](./mysql/customerPlacingTheLargestNumberOfOrders/CustomerPlacingTheLargestNumberOfOrders.sql)|Easy|
 |1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MySQL](./mysql/findFollowersCount/FindFollowersCount.sql)|Easy|
-Step 4 : Edited the "dailyLeadsAndPartners/DailyLeadsAndPartners.sql"!
 |1693|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MySQL](./mysql/dailyLeadsAndPartners/DailyLeadsAndPartners.sql)|Easy|
 |1141|[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [MySQL](./mysql/userActivityForThePast30DaysI/UserActivityForThePast30DaysI.sql)|Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./mysql/risingTemperature/RisingTemperature.sql)|Easy|
