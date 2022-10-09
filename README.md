@@ -32,3 +32,4 @@
 |2131|[Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | [Java](./java/longestPalindromeByConcatenatingTwoLetterWords/LongestPalindromeByConcatenatingTwoLetterWords.java)|Medium|
 |148|[Sort List](https://leetcode.com/problems/sort-list/) | [Java](./java/sortList/SortList.java)|Medium|
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [MySQL](./mysql/findTotalTimeSpentByEachEmployee/FindTotalTimeSpentByEachEmployee.sql)|Easy|
+|1890|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [MySQL](./mysql/theLatestLoginIn2020/TheLatestLoginIn2020.sql)|Easy|
