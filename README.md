@@ -22,7 +22,6 @@
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [Java](./java/minimizeXor/MinimizeXor.java)|Medium|
 |182|[Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | [MySQL](./mysql/duplicateEmails/DuplicateEmails.sql)|Easy|
 |2428|[Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [Java](./java/maximumSumOfAnHourglass/MaximumSumOfAnHourglass.java)|Medium|
-|542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [Java](./java/numberOfCommonFactors/NumberOfCommonFactors.java)|Easy|
 |1158|[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [MySQL](./mysql/marketAnalysisI/MarketAnalysisI.sql)|Medium|
 |1407|[Top Travellers](https://leetcode.com/problems/top-travellers/) | [MySQL](./mysql/topTravellers/TopTravellers.sql)|Easy|
@@ -46,3 +45,5 @@
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Java](./java/oddEvenLinkedList/OddEvenLinkedList.java)|Medium|
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](./java/maximumSumCircularSubarray/MaximumSumCircularSubarray.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./java/maximumSubarray/MaximumSubarray.java)|Medium|
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
