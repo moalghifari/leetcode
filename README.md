@@ -38,3 +38,4 @@
 |1729|[Find Followers Count](https://leetcode.com/problems/find-followers-count/) | [MySQL](./mysql/findFollowersCount/FindFollowersCount.sql)|Easy|
 Step 4 : Edited the "dailyLeadsAndPartners/DailyLeadsAndPartners.sql"!
 |1693|[Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MySQL](./mysql/dailyLeadsAndPartners/DailyLeadsAndPartners.sql)|Easy|
+|1141|[User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [MySQL](./mysql/userActivityForThePast30DaysI/UserActivityForThePast30DaysI.sql)|Easy|
