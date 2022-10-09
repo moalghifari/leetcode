@@ -34,3 +34,4 @@
 |1741|[Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [MySQL](./mysql/findTotalTimeSpentByEachEmployee/FindTotalTimeSpentByEachEmployee.sql)|Easy|
 |1890|[The Latest Login in 2020](https://leetcode.com/problems/the-latest-login-in-2020/) | [MySQL](./mysql/theLatestLoginIn2020/TheLatestLoginIn2020.sql)|Easy|
 |511|[Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [MySQL](./mysql/gamePlayAnalysisI/GamePlayAnalysisI.sql)|Easy|
+|586|[Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [MySQL](./mysql/customerPlacingTheLargestNumberOfOrders/CustomerPlacingTheLargestNumberOfOrders.sql)|Easy|
