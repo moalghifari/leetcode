@@ -2,6 +2,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+
+|2432|[The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [Java](./java/theEmployeeThatWorkedOnTheLongestTask/TheEmployeeThatWorkedOnTheLongestTask.java)|Easy|
 |653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Java](./java/twoSumIvInputIsABst/TwoSumIvInputIsABst.java)|Easy|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Java](./java/3sumClosest/3sumClosest.java)|Medium|
 |732|[My Calendar III](https://leetcode.com/problems/my-calendar-iii/) | [Java](./java/myCalendarIii/MyCalendarIii.java)|Hard|
