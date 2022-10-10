@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Java](./java/breakAPalindrome/BreakAPalindrome.java)|Medium|
 |2435|[Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Java](./java/pathsInMatrixWhoseSumIsDivisibleByK/PathsInMatrixWhoseSumIsDivisibleByK.java)|Hard|
 |2434|[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Java](./java/usingARobotToPrintTheLexicographicallySmallestString/UsingARobotToPrintTheLexicographicallySmallestString.java)|Medium|
 |2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [Java](./java/findTheOriginalArrayOfPrefixXor/FindTheOriginalArrayOfPrefixXor.java)|Medium|
