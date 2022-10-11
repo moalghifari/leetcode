@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](./java/increasingTripletSubsequence/IncreasingTripletSubsequence.java)|Medium|
 |1328|[Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [Java](./java/breakAPalindrome/BreakAPalindrome.java)|Medium|
 |2435|[Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [Java](./java/pathsInMatrixWhoseSumIsDivisibleByK/PathsInMatrixWhoseSumIsDivisibleByK.java)|Hard|
 |2434|[Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [Java](./java/usingARobotToPrintTheLexicographicallySmallestString/UsingARobotToPrintTheLexicographicallySmallestString.java)|Medium|
