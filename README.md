@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](./java/deleteTheMiddleNodeOfALinkedList/DeleteTheMiddleNodeOfALinkedList.java)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./java/deleteNodeInALinkedList/DeleteNodeInALinkedList.java)|Medium|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | [Java](./java/largestPerimeterTriangle/LargestPerimeterTriangle.java)|Easy|
 |334|[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](./java/increasingTripletSubsequence/IncreasingTripletSubsequence.java)|Medium|
