@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Java](./java/minimumDifficultyOfAJobSchedule/MinimumDifficultyOfAJobSchedule.java)|Hard|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/) | [Java](./java/stringCompressionIi/StringCompressionIi.java)|Hard|
 |2095|[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Java](./java/deleteTheMiddleNodeOfALinkedList/DeleteTheMiddleNodeOfALinkedList.java)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Java](./java/deleteNodeInALinkedList/DeleteNodeInALinkedList.java)|Medium|
