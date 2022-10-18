@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./java/countAndSay/CountAndSay.java)|Medium|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](./java/checkIfTheSentenceIsPangram/CheckIfTheSentenceIsPangram.java)|Easy|
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/) | [Java](./java/minimumDifficultyOfAJobSchedule/MinimumDifficultyOfAJobSchedule.java)|Hard|
 |1531|[String Compression II](https://leetcode.com/problems/string-compression-ii/) | [Java](./java/stringCompressionIi/StringCompressionIi.java)|Hard|
