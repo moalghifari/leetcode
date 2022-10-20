@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./java/integerToRoman/IntegerToRoman.java)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./java/topKFrequentWords/TopKFrequentWords.java)|Medium|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Java](./java/countAndSay/CountAndSay.java)|Medium|
 |1832|[Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [Java](./java/checkIfTheSentenceIsPangram/CheckIfTheSentenceIsPangram.java)|Easy|
