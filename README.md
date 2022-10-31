@@ -58,5 +58,6 @@
 |918|[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Java](./java/maximumSumCircularSubarray/MaximumSumCircularSubarray.java)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Java](./java/maximumSubarray/MaximumSubarray.java)|Medium|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/) | [MySQL](./mysql/risingTemperature/RisingTemperature.sql)|Easy|
+|607|[Sales Person](https://leetcode.com/problems/sales-person/) | [MySQL](./mysql/salesPerson/SalesPerson.sql)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
