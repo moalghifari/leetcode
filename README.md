@@ -78,5 +78,6 @@
 |1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [C++](./c++/whereWillTheBallFall/WhereWillTheBallFall.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [C++](./c++/spiralMatrix/SpiralMatrix.cpp)|Medium|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/) | [C++](./c++/happyNumber/HappyNumber.cpp)|Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [C++](./c++/minCostClimbingStairs/MinCostClimbingStairs.cpp)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
