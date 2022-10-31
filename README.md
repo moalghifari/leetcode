@@ -72,5 +72,6 @@
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Java](./java/longestCommonPrefix/LongestCommonPrefix.java)|Easy|
 |740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [Java](./java/deleteAndEarn/DeleteAndEarn.java)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Java](./java/houseRobberIi/HouseRobberIi.java)|Medium|
+|198|[House Robber](https://leetcode.com/problems/house-robber/) | [Java](./java/houseRobber/HouseRobber.java)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
