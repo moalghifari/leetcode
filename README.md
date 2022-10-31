@@ -75,5 +75,6 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Java](./java/houseRobber/HouseRobber.java)|Medium|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL](./mysql/secondHighestSalary/SecondHighestSalary.sql)|Medium|
 |608|[Tree Node](https://leetcode.com/problems/tree-node/) | [MySQL](./mysql/treeNode/TreeNode.sql)|Medium|
+|1706|[Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/) | [C++](./c++/whereWillTheBallFall/WhereWillTheBallFall.cpp)|Medium|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
