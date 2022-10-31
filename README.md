@@ -64,5 +64,6 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Java](./java/palindromeLinkedList/PalindromeLinkedList.java)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./java/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.java)|Medium|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/) | [MySQL](./mysql/articleViewsI/ArticleViewsI.sql)|Easy|
+|1581|[Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MySQL](./mysql/customerWhoVisitedButDidNotMakeAnyTransactions/CustomerWhoVisitedButDidNotMakeAnyTransactions.sql)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/) | [Python](./python/01Matrix/01Matrix.py)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./python/twoSum/TwoSum.py)|Easy|
