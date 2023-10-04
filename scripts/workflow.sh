@@ -17,6 +17,8 @@ elif [[ $EXTENTION == ".sql" ]]; then
     FILETYPE="MySQL"
 elif [[ $EXTENTION == ".sh" ]]; then
     FILETYPE="Shell"
+elif [[ $EXTENTION == ".go" ]]; then
+    FILETYPE="Go"
 fi
 
 COLOR_INFO='\033[0;36m'
