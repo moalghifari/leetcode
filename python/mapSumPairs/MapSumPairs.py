@@ -43,35 +43,27 @@
 class MapSum(object):
 
     def __init__(self):
-        """
-        Initialize your data structure here.
-        """
         self.dict = {}
-        
+        self.key = {}
 
     def insert(self, key, val):
-        """
-        :type key: str
-        :type val: int
-        :rtype: void
-        """
-        self.dict[key] = val
+        for i in xrange(1, len(key) + 1):
+            s = key[:i]
+            if s in self.dict:
+                self.dict[s] += val
+            else:
+                self.dict[s] = val
         
+        if key in self.key:
+            last_val = self.key[key]
+            for i in xrange(1, len(key) + 1):
+                s = key[:i]
+                self.dict[s] -= last_val
+        
+        self.key[key] = val
         
 
     def sum(self, prefix):
-        """
-        :type prefix: str
-        :rtype: int
-        """
-        res = 0
-        for key, val in self.dict.items():
-            if key.startswith(prefix):
-                res+=val
-        return res
-
-
-# Your MapSum object will be instantiated and called as such:
-# obj = MapSum()
-# obj.insert(key,val)
-# param_2 = obj.sum(prefix)
+        if prefix not in self.dict:
+            return 0
+        return self.dict[prefix]

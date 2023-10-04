@@ -32,31 +32,16 @@ class Solution(object):
         :type matrix: List[List[int]]
         :rtype: None Do not return anything, modify matrix in-place instead.
         """
-        n = len(matrix)
-        base = 0
-        while n >= 2:
-            for i in range(base, n-1):
-                point = (base, i)
-                rotate_points(matrix, point, point)
-            n -= 1
-            base += 1
-                
-def rotate_points(matrix, orig, point):
-    rotated = rotate_point(point, len(matrix))
-    if orig != rotated:
-        rotate_points(matrix, orig, rotated)
-    
-    if orig == point:
-        return 
+        if not matrix:
+            return None
+        
+        
+        N = len(matrix)
 
-    swap(matrix, point, rotated)
+        for i in range(N):
+            for j in range(i, N):
+                matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
-
-def rotate_point(point, N):
-    return (point[1], N - point[0] - 1)
-
-def swap(matrix, p1, p2):
-    temp = matrix[p2[0]][p2[1]]
-    matrix[p2[0]][p2[1]] = matrix[p1[0]][p1[1]]
-    matrix[p1[0]][p1[1]] = temp
+        for i in range(N):
+            matrix[i].reverse()
     

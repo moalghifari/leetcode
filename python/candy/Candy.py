@@ -42,20 +42,16 @@ class Solution(object):
         :type ratings: List[int]
         :rtype: int
         """
-        candies = [1 for i in range(len(ratings))]
+        if not len(ratings):
+            return 0
+        candynums = [1] * len(ratings)
         
-        for i in range(0, len(ratings)):
-            if i != 0:
-                if ratings[i] > ratings[i-1] and candies[i] <= candies[i-1]:
-                    candies[i] = candies[i-1] + 1
-            
-        for i in range(len(ratings)-1, -1, -1):
-            if i != len(ratings)-1:
-                if ratings[i] > ratings[i+1] and candies[i] <= candies[i+1]:
-                    candies[i] = max(candies[i], candies[i+1] + 1)
-        
-        sum = 0
-        for i in range(len(candies)):
-            sum += candies[i]
-            
-        return sum
+        for i in range(1, len(ratings)):
+            if ratings[i] > ratings[i-1]:
+                candynums[i] =  candynums[i-1] + 1
+                
+        for i in range(len(ratings)-1, 0 , -1):
+            if ratings[i] < ratings[i-1]:
+                candynums[i-1] =  max(candynums[i] + 1, candynums[i-1])        
+                
+        return sum(candynums)

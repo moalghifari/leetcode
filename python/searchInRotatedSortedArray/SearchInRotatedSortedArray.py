@@ -42,8 +42,46 @@ class Solution(object):
         :type target: int
         :rtype: int
         """
-        for i in range(len(nums)):
-            if target == nums[i]:
-                return i
-        return -1
+        def binary_search(arr,lo,hi):
+            while lo<=hi:
+                mid = (lo+hi)//2
+              
+                if target==arr[mid]:
+                    return mid
+                if target>arr[mid]:
+                    lo=mid+1
+                else:
+                    hi=mid-1
+            return -1
+        
+        def find_rotate_index(nums,lo,hi):
+            if nums[lo]<nums[hi]:
+                return 0
+            while lo<=hi:
+                mid = (lo+hi)//2
+                if nums[mid]>nums[mid+1]:
+                    return mid+1
+                if nums[mid]<nums[lo]:
+                    hi=mid-1
+                else:
+                    lo=mid+1
+                
+        if len(nums)==0:
+            return -1
+        if len(nums)==1:
+            return 0 if nums[0] == target else -1
+        index =  find_rotate_index(nums,0,len(nums)-1)
+      
+        if nums[index]==target:
+            return index
+        
+        if index == 0:
+            ans = binary_search(nums,0,len(nums)-1)
+        elif target>=nums[0]:
+            ans = binary_search(nums,0,index)
+        else:
+            ans = binary_search(nums,index,len(nums)-1)
             
+        
+        
+        return ans

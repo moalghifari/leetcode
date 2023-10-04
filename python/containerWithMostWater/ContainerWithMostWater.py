@@ -41,12 +41,13 @@ class Solution(object):
         """
         l = 0
         r = len(height) - 1
-        max_height = 0
+        largest_container = float("-inf")
         while l < r:
-            max_height = max(max_height, min(height[l], height[r]) * (r - l) )
+            current_container = (r-l) * min(height[l], height[r])
+            if current_container >= largest_container:
+                largest_container = current_container
             if height[l] < height[r]:
                 l += 1
             else:
                 r -= 1
-        return max_height
-        
+        return largest_container
