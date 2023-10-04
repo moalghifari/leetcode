@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./python/zigzagConversion/ZigzagConversion.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/rotateImage/RotateImage.py)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/searchInRotatedSortedArray/SearchInRotatedSortedArray.py)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/) | [Python](./python/candy/Candy.py)|Hard|
