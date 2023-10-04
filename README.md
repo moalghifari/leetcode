@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|135|[Candy](https://leetcode.com/problems/candy/) | [Python](./python/candy/Candy.py)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/containerWithMostWater/ContainerWithMostWater.py)|Medium|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/longestPalindromicSubstring/LongestPalindromicSubstring.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.py)|Medium|
