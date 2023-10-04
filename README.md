@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/palindromeLinkedList/PalindromeLinkedList.py)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](./python/powerOfFour/PowerOfFour.py)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./python/addTwoNumbers/AddTwoNumbers.py)|Medium|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Python](./python/removeSubFoldersFromTheFilesystem/RemoveSubFoldersFromTheFilesystem.py)|Medium|
