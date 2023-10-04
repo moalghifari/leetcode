@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./python/longestPalindromicSubstring/LongestPalindromicSubstring.py)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./python/longestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.py)|Medium|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/) | [Python](./python/letterTilePossibilities/LetterTilePossibilities.py)|Medium|
 |677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](./python/mapSumPairs/MapSumPairs.py)|Medium|
