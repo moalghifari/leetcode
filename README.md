@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Java](./java/maximumLengthOfAConcatenatedStringWithUniqueCharacters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters.java)|Medium|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./java/setMismatch/SetMismatch.java)|Easy|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](./java/minimumWindowSubstring/MinimumWindowSubstring.java)|Hard|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](./go/validParentheses/ValidParentheses.go)|Easy|
