@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./python/powerOfThree/PowerOfThree.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/runningSumOf1dArray/RunningSumOf1dArray.py)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Python](./python/palindromeLinkedList/PalindromeLinkedList.py)|Easy|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | [Python](./python/powerOfFour/PowerOfFour.py)|Easy|
