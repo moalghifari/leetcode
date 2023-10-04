@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Java](./java/minimumWindowSubstring/MinimumWindowSubstring.java)|Hard|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](./go/validParentheses/ValidParentheses.go)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./go/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.go)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./java/containsDuplicateIi/ContainsDuplicateIi.java)|Easy|
