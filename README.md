@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./java/continuousSubarraySum/ContinuousSubarraySum.java)|Medium|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Java](./java/checkIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent.java)|Easy|
 |1239|[Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/) | [Java](./java/maximumLengthOfAConcatenatedStringWithUniqueCharacters/MaximumLengthOfAConcatenatedStringWithUniqueCharacters.java)|Medium|
 |645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Java](./java/setMismatch/SetMismatch.java)|Easy|
