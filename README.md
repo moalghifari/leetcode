@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/) | [Python](./python/removeSubFoldersFromTheFilesystem/RemoveSubFoldersFromTheFilesystem.py)|Medium|
 |1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/) | [Python](./python/checkIfItIsAStraightLine/CheckIfItIsAStraightLine.py)|Easy|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](./python/zigzagConversion/ZigzagConversion.py)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/rotateImage/RotateImage.py)|Medium|
