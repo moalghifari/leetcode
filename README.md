@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Java](./java/shortestPathInAGridWithObstaclesElimination/ShortestPathInAGridWithObstaclesElimination.java)|Hard|
 |2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Java](./java/earliestPossibleDayOfFullBloom/EarliestPossibleDayOfFullBloom.java)|Hard|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./java/groupAnagrams/GroupAnagrams.java)|Medium|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/) | [Java](./java/imageOverlap/ImageOverlap.java)|Medium|
