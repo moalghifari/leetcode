@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|677|[Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/) | [Python](./python/mapSumPairs/MapSumPairs.py)|Medium|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Java](./java/toeplitzMatrix/ToeplitzMatrix.java)|Easy|
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Java](./java/shortestPathInAGridWithObstaclesElimination/ShortestPathInAGridWithObstaclesElimination.java)|Hard|
 |2136|[Earliest Possible Day of Full Bloom](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/) | [Java](./java/earliestPossibleDayOfFullBloom/EarliestPossibleDayOfFullBloom.java)|Hard|
