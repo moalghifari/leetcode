@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./python/rotateImage/RotateImage.py)|Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./python/searchInRotatedSortedArray/SearchInRotatedSortedArray.py)|Medium|
 |135|[Candy](https://leetcode.com/problems/candy/) | [Python](./python/candy/Candy.py)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](./python/containerWithMostWater/ContainerWithMostWater.py)|Medium|
