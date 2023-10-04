@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Go](./go/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.go)|Easy|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](./java/containsDuplicateIi/ContainsDuplicateIi.java)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Java](./java/integerToRoman/IntegerToRoman.java)|Medium|
 |692|[Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Java](./java/topKFrequentWords/TopKFrequentWords.java)|Medium|
