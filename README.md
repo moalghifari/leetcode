@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Java](./java/groupAnagrams/GroupAnagrams.java)|Medium|
 |835|[Image Overlap](https://leetcode.com/problems/image-overlap/) | [Java](./java/imageOverlap/ImageOverlap.java)|Medium|
 |523|[Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Java](./java/continuousSubarraySum/ContinuousSubarraySum.java)|Medium|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Java](./java/checkIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent.java)|Easy|
