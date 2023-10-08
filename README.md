@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/validateBinarySearchTree/ValidateBinarySearchTree.py)|Medium|
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](./python/maxAreaOfIsland/MaxAreaOfIsland.py)|Medium|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/) | [Python](./python/floodFill/FloodFill.py)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./python/permutationInString/PermutationInString.py)|Medium|
