@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2410|[Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Python](./python/maximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers.py)|Medium|
 |2409|[Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Python](./python/countDaysSpentTogether/CountDaysSpentTogether.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/numberOfIslands/NumberOfIslands.py)|Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./python/lowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.py)|Medium|
