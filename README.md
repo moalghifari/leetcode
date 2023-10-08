@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Python](./python/smallestEvenMultiple/SmallestEvenMultiple.py)|Easy|
 |2410|[Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [Python](./python/maximumMatchingOfPlayersWithTrainers/MaximumMatchingOfPlayersWithTrainers.py)|Medium|
 |2409|[Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Python](./python/countDaysSpentTogether/CountDaysSpentTogether.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/numberOfIslands/NumberOfIslands.py)|Medium|
