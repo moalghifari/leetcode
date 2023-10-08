@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/binarySearch/BinarySearch.py)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.py)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./python/bestTimeToBuyAndSellStockIv/BestTimeToBuyAndSellStockIv.py)|Hard|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [Python](./python/theNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame.py)|Medium|
