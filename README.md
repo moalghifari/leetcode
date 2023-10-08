@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](./python/reverseBits/ReverseBits.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./python/backspaceStringCompare/BackspaceStringCompare.py)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./python/letterCasePermutation/LetterCasePermutation.py)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/uniquePaths/UniquePaths.py)|Medium|
