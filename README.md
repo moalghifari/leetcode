@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|394|[Decode String](https://leetcode.com/problems/decode-string/) | [Python](./python/decodeString/DecodeString.py)|Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/) | [Python](./python/singleNumber/SingleNumber.py)|Easy|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Python](./python/bullsAndCows/BullsAndCows.py)|Medium|
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Python](./python/numberOf1Bits/NumberOf1Bits.py)|Easy|
