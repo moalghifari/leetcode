@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./python/isSubsequence/IsSubsequence.py)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./python/isomorphicStrings/IsomorphicStrings.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./python/findPivotIndex/FindPivotIndex.py)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./python/powerOfThree/PowerOfThree.py)|Easy|
