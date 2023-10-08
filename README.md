@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/mergeTwoBinaryTrees/MergeTwoBinaryTrees.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./python/minCostClimbingStairs/MinCostClimbingStairs.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/fibonacciNumber/FibonacciNumber.py)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](./python/validateBinarySearchTree/ValidateBinarySearchTree.py)|Medium|
