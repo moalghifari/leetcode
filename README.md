@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|2409|[Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [Python](./python/countDaysSpentTogether/CountDaysSpentTogether.py)|Easy|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](./python/numberOfIslands/NumberOfIslands.py)|Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Python](./python/lowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree.py)|Medium|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](./python/populatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.py)|Medium|
