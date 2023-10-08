@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](./python/reverseLinkedList/ReverseLinkedList.py)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](./python/mergeTwoSortedLists/MergeTwoSortedLists.py)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./python/ransomNote/RansomNote.py)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./python/isSubsequence/IsSubsequence.py)|Easy|
