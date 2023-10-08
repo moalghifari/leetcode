@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|120|[Triangle](https://leetcode.com/problems/triangle/) | [Python](./python/triangle/Triangle.py)|Medium|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Python](./python/longestRepeatingCharacterReplacement/LongestRepeatingCharacterReplacement.py)|Medium|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./python/lastStoneWeight/LastStoneWeight.py)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](./python/reverseBits/ReverseBits.py)|Easy|
