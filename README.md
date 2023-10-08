@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Python](./python/permutationInString/PermutationInString.py)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](./python/binaryTreeLevelOrderTraversal/BinaryTreeLevelOrderTraversal.py)|Medium|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Python](./python/nAryTreePreorderTraversal/NAryTreePreorderTraversal.py)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](./python/removeNthNodeFromEndOfList/RemoveNthNodeFromEndOfList.py)|Medium|
