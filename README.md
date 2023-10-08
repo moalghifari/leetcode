@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/squaresOfASortedArray/SquaresOfASortedArray.py)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/searchInsertPosition/SearchInsertPosition.py)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Python](./python/firstBadVersion/FirstBadVersion.py)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./python/binarySearch/BinarySearch.py)|Easy|
