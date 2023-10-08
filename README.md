@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/linkedListCycleIi/LinkedListCycleIi.py)|Medium|
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Python](./python/middleOfTheLinkedList/MiddleOfTheLinkedList.py)|Easy|
 |869|[Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Python](./python/reorderedPowerOf2/ReorderedPowerOf2.py)|Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/) | [Python](./python/powerOfTwo/PowerOfTwo.py)|Easy|
