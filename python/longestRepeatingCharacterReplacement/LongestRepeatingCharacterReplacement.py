@@ -32,19 +32,21 @@
 #####################################################################################################
 
 class Solution(object):
-    def lastStoneWeight(self, stones):
+    def characterReplacement(self, s, k):
         """
-        :type stones: List[int]
+        :type s: str
+        :type k: int
         :rtype: int
         """
-        for i, s in enumerate(stones):
-            stones[i] = -s
-            heapify(stones)
-        while stones:
-            s1 = heappop(stones)
-            if not stones:
-                return -s1
-            s2 = heappop(stones)
-            if s1 < s2:
-                heappush(stones, s1 - s2)
-        return 0
+        start, max_count, max_length, n = 0, 0, 0, len(s)
+        counter = {}
+        for end in range(0, n):
+            if s[end] not in counter:
+                counter[s[end]] = 0
+            counter[s[end]] += 1
+            max_count = max(counter[s[end]], max_count)
+            while (end - start - max_count + 1) > k:
+                counter[s[start]] -= 1
+                start += 1
+            max_length = max(end - start + 1, max_length)
+        return max_length
