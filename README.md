@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [Python](./python/lastStoneWeight/LastStoneWeight.py)|Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [Python](./python/reverseBits/ReverseBits.py)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Python](./python/backspaceStringCompare/BackspaceStringCompare.py)|Easy|
 |784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./python/letterCasePermutation/LetterCasePermutation.py)|Medium|
