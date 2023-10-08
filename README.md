@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|77|[Combinations](https://leetcode.com/problems/combinations/) | [Python](./python/combinations/Combinations.py)|Medium|
 |994|[Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Python](./python/rottingOranges/RottingOranges.py)|Medium|
 |2414|[Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [Python](./python/lengthOfTheLongestAlphabeticalContinuousSubstring/LengthOfTheLongestAlphabeticalContinuousSubstring.py)|Medium|
 |2413|[Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [Python](./python/smallestEvenMultiple/SmallestEvenMultiple.py)|Easy|
