@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/moveZeroes/MoveZeroes.py)|Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/) | [Python](./python/rotateArray/RotateArray.py)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Python](./python/squaresOfASortedArray/SquaresOfASortedArray.py)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./python/searchInsertPosition/SearchInsertPosition.py)|Easy|
