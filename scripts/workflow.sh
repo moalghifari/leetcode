@@ -61,6 +61,11 @@ get_question_slug ${leetcode_url}
 dir_name=`echo ${QUESTION_TITLE_SLUG} | awk -F '-' '{for (i=1; i<=NF; i++) printf("%s", toupper(substr($i,1,1)) substr($i,2)) }'`
 dir_name=`echo ${dir_name:0:1} | tr '[A-Z]' '[a-z]'`${dir_name:1}
 
+if [ -d "$dir_name" ]; then
+    echo "Directory $dir_name already exists. Exiting."
+    exit 1
+fi
+
 mkdir -p ${dir_name}
 echo "Step 1 : Created \"${dir_name}\" directory!"
 cd ${dir_name}
