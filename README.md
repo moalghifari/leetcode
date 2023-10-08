@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./python/binaryTreeInorderTraversal/BinaryTreeInorderTraversal.py)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Python](./python/bestTimeToBuyAndSellStockIv/BestTimeToBuyAndSellStockIv.py)|Hard|
 |1996|[The Number of Weak Characters in the Game](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/) | [Python](./python/theNumberOfWeakCharactersInTheGame/TheNumberOfWeakCharactersInTheGame.py)|Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./python/linkedListCycleIi/LinkedListCycleIi.py)|Medium|
