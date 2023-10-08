@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|784|[Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Python](./python/letterCasePermutation/LetterCasePermutation.py)|Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](./python/uniquePaths/UniquePaths.py)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/) | [Python](./python/houseRobber/HouseRobber.py)|Medium|
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Python](./python/findAllAnagramsInAString/FindAllAnagramsInAString.py)|Medium|
