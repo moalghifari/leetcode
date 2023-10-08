@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](./python/reverseString/ReverseString.py)|Easy|
 |948|[Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Python](./python/bagOfTokens/BagOfTokens.py)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./python/twoSumIiInputArrayIsSorted/TwoSumIiInputArrayIsSorted.py)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python](./python/moveZeroes/MoveZeroes.py)|Easy|
