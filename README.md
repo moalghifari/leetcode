@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Python](./python/ransomNote/RansomNote.py)|Easy|
 |392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Python](./python/isSubsequence/IsSubsequence.py)|Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./python/isomorphicStrings/IsomorphicStrings.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./python/findPivotIndex/FindPivotIndex.py)|Easy|
