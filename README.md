@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Python](./python/populatingNextRightPointersInEachNode/PopulatingNextRightPointersInEachNode.py)|Medium|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Python](./python/mergeTwoBinaryTrees/MergeTwoBinaryTrees.py)|Easy|
 |746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Python](./python/minCostClimbingStairs/MinCostClimbingStairs.py)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Python](./python/fibonacciNumber/FibonacciNumber.py)|Easy|
