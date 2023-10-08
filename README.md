@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Python](./python/isomorphicStrings/IsomorphicStrings.py)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Python](./python/findPivotIndex/FindPivotIndex.py)|Easy|
 |326|[Power of Three](https://leetcode.com/problems/power-of-three/) | [Python](./python/powerOfThree/PowerOfThree.py)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [Python](./python/runningSumOf1dArray/RunningSumOf1dArray.py)|Easy|
