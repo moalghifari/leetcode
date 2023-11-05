@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Python](./python/relativeRanks/RelativeRanks.py)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/) | [Python](./python/kthLargestElementInAStream/KthLargestElementInAStream.py)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Java](./java/toeplitzMatrix/ToeplitzMatrix.java)|Easy|
 |1293|[Shortest Path in a Grid with Obstacles Elimination](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/) | [Java](./java/shortestPathInAGridWithObstaclesElimination/ShortestPathInAGridWithObstaclesElimination.java)|Hard|
