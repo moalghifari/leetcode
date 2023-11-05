@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/topKFrequentElements/TopKFrequentElements.py)|Medium|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Python](./python/relativeRanks/RelativeRanks.py)|Easy|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/submissions/) | [Python](./python/kthLargestElementInAStream/KthLargestElementInAStream.py)|Easy|
 |766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Java](./java/toeplitzMatrix/ToeplitzMatrix.java)|Easy|
