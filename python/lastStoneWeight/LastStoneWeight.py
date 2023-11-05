@@ -56,3 +56,26 @@ class Solution(object):
             if s1 < s2:
                 heappush(stones, s1 - s2)
         return 0
+
+import heapq
+
+class Solution(object):
+    def lastStoneWeight(self, stones):
+        """
+        :type stones: List[int]
+        :rtype: int
+        """
+        heap = []
+        for i in range(0, len(stones)):
+            heap.append(-1 * stones[i])
+        heapq.heapify(heap)
+
+        while len(heap) > 1:
+            first_stone = heapq.heappop(heap) * -1
+            second_stone = heapq.heappop(heap) * -1
+            result = first_stone - second_stone
+            if result != 0:
+                heapq.heappush(heap, -1 * result)
+        if len(heap) == 1:
+            return -1 * heap[0]
+        return 0
