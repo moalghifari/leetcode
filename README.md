@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | [Python](./python/splitArrayLargestSum/SplitArrayLargestSum.py)|Hard|
 |1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | [Python](./python/magneticForceBetweenTwoBalls/MagneticForceBetweenTwoBalls.py)|Medium|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](./python/numberOfProvinces/NumberOfProvinces.py)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/networkDelayTime/NetworkDelayTime.py)|Medium|
