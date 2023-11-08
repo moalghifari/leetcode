@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1552|[Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) | [Python](./python/magneticForceBetweenTwoBalls/MagneticForceBetweenTwoBalls.py)|Medium|
 |547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](./python/numberOfProvinces/NumberOfProvinces.py)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/networkDelayTime/NetworkDelayTime.py)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/topKFrequentElements/TopKFrequentElements.py)|Medium|
