@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [Python](./python/numberOfProvinces/NumberOfProvinces.py)|Medium|
 |743|[Network Delay Time](https://leetcode.com/problems/network-delay-time/) | [Python](./python/networkDelayTime/NetworkDelayTime.py)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./python/topKFrequentElements/TopKFrequentElements.py)|Medium|
 |506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | [Python](./python/relativeRanks/RelativeRanks.py)|Easy|
