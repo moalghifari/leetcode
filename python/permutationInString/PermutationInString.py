@@ -25,30 +25,6 @@
 # 	s1 and s2 consist of lowercase English letters.
 #####################################################################################################
 
-../scripts/workflow.sh https://leetcode.com/problems/reverse-words-in-a-string-iii/ .py
-../scripts/workflow.sh https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ .py
-../scripts/workflow.sh https://leetcode.com/problems/longest-palindrome/ .py
-../scripts/workflow.sh https://leetcode.com/problems/remove-nth-node-from-end-of-list/ .py
-../scripts/workflow.sh https://leetcode.com/problems/n-ary-tree-preorder-traversal/ .py
-../scripts/workflow.sh https://leetcode.com/problems/binary-tree-level-order-traversal/ .py
-../scripts/workflow.sh https://leetcode.com/problems/longest-substring-without-repeating-characters/ .py
-../scripts/workflow.sh https://leetcode.com/problems/permutation-in-string/ .py
-../scripts/workflow.sh https://leetcode.com/problems/binary-search/ .py
-../scripts/workflow.sh https://leetcode.com/problems/first-bad-version/ .py
-../scripts/workflow.sh https://leetcode.com/problems/flood-fill/ .py
-../scripts/workflow.sh https://leetcode.com/problems/max-area-of-island/ .py
-../scripts/workflow.sh https://leetcode.com/problems/validate-binary-search-tree/ .py
-../scripts/workflow.sh https://leetcode.com/problems/fibonacci-number/ .py
-../scripts/workflow.sh https://leetcode.com/problems/min-cost-climbing-stairs/ .py
-../scripts/workflow.sh https://leetcode.com/problems/merge-two-binary-trees/ .py
-../scripts/workflow.sh https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ .py
-../scripts/workflow.sh https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/ .py
-../scripts/workflow.sh https://leetcode.com/contest/biweekly-contest-87/problems/count-days-spent-together/ .py
-../scripts/workflow.sh https://leetcode.com/contest/biweekly-contest-87/problems/maximum-matching-of-players-with-trainers/ .py
-../scripts/workflow.sh https://leetcode.com/problems/number-of-islands/ .py
-../scripts/workflow.sh https://leetcode.com/contest/weekly-contest-311/problems/smallest-even-multiple/ .py
-../scripts/workflow.sh https://leetcode.com/contest/weekly-contest-311/problems/length-of-the-longest-alphabetical-continuous-substring/ .py
-
 class Solution(object):
     def checkInclusion(self, s1, s2):
         """
