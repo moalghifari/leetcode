@@ -2,3 +2,5 @@
 logs
 links
 other
+.vscode/*
+.DS_Store
